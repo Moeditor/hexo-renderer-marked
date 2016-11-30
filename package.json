@@ -17,6 +17,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "hexo-util": "^0.6.0",
+    "jsdom": "^9.8.3",
     "katex": "^0.6.0",
     "mathjax-node": "^0.5.1",
     "moemark": "^0.3.9",
