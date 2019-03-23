@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-moemark",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Markdown renderer plugin for Hexo",
   "main": "index",
   "directories": {
